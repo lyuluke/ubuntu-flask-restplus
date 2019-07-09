@@ -28,6 +28,7 @@ RUN \
     python3-pip \
     python3-setuptools \ 
     curl \
+    git \
     supervisor &&\
 
 #==================================================
