@@ -29,7 +29,8 @@ RUN \
     python3-setuptools \ 
     curl \
     git \
-    supervisor &&\
+    supervisor \
+    libltdl-dev &&\
 
 #==================================================
 # Flask
